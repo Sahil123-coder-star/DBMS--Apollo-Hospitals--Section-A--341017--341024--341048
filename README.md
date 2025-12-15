@@ -57,5 +57,7 @@ This project is intended for **academic DBMS learning**, demonstrating hospital 
 ---
 
 ## 👤 Author
-Your Name  
-DBMS Academic Project
+Karan Rakesh Bahuguna (341017)
+Manveer Singh Bhalla (341024)
+Sahil H Vasa (341048)
+
