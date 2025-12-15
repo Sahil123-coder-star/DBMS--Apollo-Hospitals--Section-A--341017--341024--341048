@@ -14,16 +14,16 @@ This project implements a **relational database design for Apollo Hospitals**, f
 ---
 
 ## 🗂️ Database Schema (Tables)
-- **patient** – Stores patient personal and contact details  
-- **doctor** – Stores doctor information and specialization  
-- **department** – Hospital departments and location details  
-- **appointment** – Scheduling between patients and doctors  
-- **visit** – Records actual patient visits and complaints  
-- **prescription** – Prescriptions issued during visits  
-- **prescription_item** – Medications linked to prescriptions  
-- **medication** – Medicine inventory details  
-- **invoice** – Billing and payment status for visits  
-- **ward** – Ward and bed management  
+- **patient** - Stores patient personal and contact details  
+- **doctor** - Stores doctor information and specialization  
+- **department** - Hospital departments and location details  
+- **appointment** - Scheduling between patients and doctors  
+- **visit** - Records actual patient visits and complaints  
+- **prescription** - Prescriptions issued during visits  
+- **prescription_item** - Medications linked to prescriptions  
+- **medication** - Medicine inventory details  
+- **invoice** - Billing and payment status for visits  
+- **ward** - Ward and bed management  
 
 ---
 
